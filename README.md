@@ -69,7 +69,3 @@ predictions = autovi.predict(model, new_data)</code></pre>
   <p>We welcome contributions from the community to enhance and improve the Autovi-ML library. If you have any ideas, bug reports, or feature requests, please submit them through our <a href="https://link-to-your-issue-tracker">issue tracker</a>.</p>
 
   <p>We appreciate your support in making Autovi-ML better for everyone!</p>
-
-  <h2>License</h2>
-
-  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
